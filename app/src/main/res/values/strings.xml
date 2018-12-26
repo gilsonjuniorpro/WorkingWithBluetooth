@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Working With Bluetooth</string>
+    <string name="verify_if_the_device_has_bluetooth">verify if the device has Bluetooth</string>
+</resources>
